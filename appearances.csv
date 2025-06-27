@@ -1,4 +1,4 @@
-player_id,season,games,yellow_cards,red_cards,goals,assists,minutes_played
+player_id,last_season,games,yellow_cards,red_cards,goals,assists,minutes_played
 10,2012,20,6,0,11,1,1483
 10,2013,29,3,0,9,4,2052
 10,2014,31,3,0,8,6,1766
